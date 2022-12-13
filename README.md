@@ -6,7 +6,7 @@ Access registry contract that stores the signatories of this multi-sig wallet by
 This access registry contract has its own admin. Capable of adding, revoking, renouncing, and transfer of signatory functionalities.
 
 Testnet Deploy
-Contract address: 
+Contract address: 0xb48b896fab0d4b4d24a0d5b7a1db182279a695606f051ec2ef77efd8f5c3c225 
 
 Goerli Network Deployement here
 Installation and testing
