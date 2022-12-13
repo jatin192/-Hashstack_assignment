@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-import "contracts/Access_Specifications.sol";
-import "contracts/interfaces/Communication_Interface.sol";
+import "Access_Specifications.sol";
+import "Communication_Interface.sol";
 
 
 contract MultiSignatureWalletContract is AccessSpecifications {
